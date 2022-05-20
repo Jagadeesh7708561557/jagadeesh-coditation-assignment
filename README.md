@@ -14,7 +14,7 @@
 * developed components for wordle game clone
 
 # Frontend UI Main Page
-* For a good frontedn developer there should be a first main page to show off our functions to the targeted users
+* For a good frontend developer there should be a first main page to show off our functions to the targeted users
 * using bootstrap, CSS I have designed the main UI page
 * kindly check out the deployed web page the link provied above
 * in the wordle game page/module i have included tailwand css add-ons for changing theme from light to dark or vice-versa
